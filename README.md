@@ -21,4 +21,17 @@
 <pre>
 <code>
 javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/refs/heads/main/SCRIPT.js").then(t=>t.text()).then(eval);
+</code>
+</pre>
+
+</div>
+
 ---
+
+---
+
+<!-- Créditos -->
+<div align="center">
+  <img src="https://i.pinimg.com/236x/64/fb/55/64fb55731d635eea90870f17d9d24179.jpg"/>
+  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por notchdev!</h3>
+</div>
